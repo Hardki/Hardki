@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hardki
+- 👋 Hi, I'm @Hardki here in the community but my real name is Nahuel, I'm 25 years old and I'm from Argentina.
 - 👀 I am interested in continuing to learn different programming languages but currently focusing on Python.
 - 🌱 I am currently studying systems engineering at the University of Buenos Aires, and I am also studying English at an advanced level.
 - 💞️ I’m looking to collaborate on open source codes with the desire to optimize, help and learn from the knowledge of the community
